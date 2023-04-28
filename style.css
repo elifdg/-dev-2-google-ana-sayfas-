@@ -1,0 +1,22 @@
+body {color: #FFFF;margin:auto;}
+.search{background-color: #EEEE;}
+.firstb {background-color: #7ee5da;}
+.search {text-align: center;height:100px;width:1218px;margin:auto;}
+.secondb {background-color: #7ee5da;}
+.thirdb {background-color: #7ee5da;}
+.yazı1 {color: black;} 
+.logo {margin:auto;width: fit-content;text-align:center;}
+.firstb {margin:auto;padding: 5px;height: 120px;width: 476px;text-align: center;}
+.secondb {margin:auto;padding:5px;height: 120px;width: 230px;text-align: center;}
+.thirdb{margin:auto;padding:5px;height: 120px;width: 476px;text-align: center;}
+.firstb {display: inline-block;}
+.secondb {display: inline-block;}
+.thirdb {display:inline-block;}
+table {width: 90%;border:1px solid;margin:auto;}
+.special {color:black}
+.thirdb {color:black;line-height:inherit;}
+
+
+
+
+
